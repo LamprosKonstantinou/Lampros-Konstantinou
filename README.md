@@ -8,6 +8,7 @@ I am a graduate in Applied Informatics from the University of Macedonia with a p
 Personal Java and Python projects that showcase my skills and continuous growth as a developer.
 Projects related to software implementation methodologies and techniques.
 My completed thesis project, developed independently.
+
 ✨ My goal is to keep improving, exploring new technologies, and contributing to the open-source community.
 
 
