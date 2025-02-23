@@ -1,14 +1,15 @@
 # Lampros-Konstantinou
 👋 Welcome to my profile!
 
-I am an undergraduate student in Applied Informatics in University of Macedonia with a passion for programming and software development. Here, you'll find personal projects that I've developed, mainly in Java, as well as other software implementation projects.
+I am a graduate in Applied Informatics from the University of Macedonia with a passion for programming and software development. Here, you'll find personal projects that I've developed, mainly in Java and Python, as well as other software implementation projects.
 
 📚 What you'll find:
 
--Personal Java projects that I’m working on as I continue learning and growing as a developer.
--Projects related to software implementation methodologies and techniques.
--My thesis project, which I have completed independently.
+Personal Java and Python projects that showcase my skills and continuous growth as a developer.
+Projects related to software implementation methodologies and techniques.
+My completed thesis project, developed independently.
+✨ My goal is to keep improving, exploring new technologies, and contributing to the open-source community.
 
-✨ My goal is to keep improving, learning new things, and contributing to the open-source community.
+
 
 
